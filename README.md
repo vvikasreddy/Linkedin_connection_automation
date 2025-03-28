@@ -31,5 +31,3 @@ Click the image below to watch the demo:
 
 [![Demo Video Thumbnail](https://github.com/vvikasreddy/linkedin_automation/raw/main/demo/demo.png)](https://drive.google.com/file/d/1cdkPuDtjb73guYmRzK7UoQL_GtcWCHzp/view?usp=drive_link)
 ---
-
-Now the Selenium installation comes first, followed by launching Chrome, and then running the demo. Let me know if you need further tweaks!
