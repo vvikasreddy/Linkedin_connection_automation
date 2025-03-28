@@ -25,8 +25,11 @@ To run this project, you’ll need the following:
    - Open the `demo.ipynb` file in Jupyter Notebook.
    - Execute the cells in the notebook sequentially to run the script.
 
-[![Watch the video](https://drive.google.com/thumbnail?id=1znCdSOzkLKydWmDjVxtGxmhyCW_d9oOs)](https://drive.google.com/file/d/1znCdSOzkLKydWmDjVxtGxmhyCW_d9oOs/view)
+## 🎥 Demo Video
 
+Click the image below to watch the demo:
+
+[![Demo Video Thumbnail](https://github.com/vvikasreddy/linkedin_automation/raw/main/demo/demo.png)](https://drive.google.com/file/d/1cdkPuDtjb73guYmRzK7UoQL_GtcWCHzp/view?usp=drive_link)
 ---
 
 Now the Selenium installation comes first, followed by launching Chrome, and then running the demo. Let me know if you need further tweaks!
